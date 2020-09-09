@@ -16,3 +16,6 @@ installed axios for http comunication
 
 To use PropTypes
 - npm add prop-types
+
+To use gradient
+- expo install expo-linear-gradient 
