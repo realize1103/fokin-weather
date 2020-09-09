@@ -10,3 +10,9 @@ if you want to use location information
 
 if you want to get weather data, You have to join here and get API key. 
 - [http](https://openweathermap.org/)
+
+installed axios for http comunication
+- npm install axios
+
+To use PropTypes
+- npm add prop-types
