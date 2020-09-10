@@ -9,7 +9,7 @@ if you want to use location information
 - expo install expo-loacation
 
 if you want to get weather data, You have to join here and get API key. 
-- [http](https://openweathermap.org/)
+- [openweathermap](https://openweathermap.org/)
 
 installed axios for http comunication
 - npm install axios
